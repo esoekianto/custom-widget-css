@@ -9,5 +9,6 @@ measurement
 Changing the color of the result label of the measurement widget
 ```
 document.getElementsByClassName("result")[0].style.color = "red";
-document.getElementsByClassName("resultLabel")[0].style.color = "blue";      document.getElementsByClassName("resultTable")[0].style.color = "green";
+document.getElementsByClassName("resultLabel")[0].style.color = "blue";
+document.getElementsByClassName("resultTable")[0].style.color = "green";
 ```
